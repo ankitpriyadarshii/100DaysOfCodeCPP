@@ -1,7 +1,7 @@
 # 100DaysOfCodeCPP
 Solutions for my attempts at solving various problem throughout the 100 Days of the challenge
 
-Day 1 
+Day 1 ---------------------------------------------------------------------------------------
 
 1 - Reverse a word
 
