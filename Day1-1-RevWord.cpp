@@ -6,7 +6,7 @@ using namespace std;
 
 // Reverse word Function
 
-string RevString(string s) {
+string RevWord(string s) {
     int n;
     n = s.length();
     string rev = "";
@@ -21,5 +21,5 @@ int main()
 {
     string s;
     cin >> s;
-    cout << RevString(s);
+    cout << RevWord(s);
 }
