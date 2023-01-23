@@ -8,3 +8,9 @@ Day 1 --------------------------------------------------------------------------
 2 - Reverse a string
 
 3 - Reverse an array
+
+Day 2 ---------------------------------------------------------------------------------------
+
+1 - Minimum and Maximum Element from a given array
+
+2 - Sort an Array of only 0, 1 and 2 as it's elements without using any sorting algorithms  
