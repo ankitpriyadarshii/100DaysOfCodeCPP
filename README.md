@@ -14,3 +14,9 @@ Day 2 --------------------------------------------------------------------------
 1 - Minimum and Maximum Element from a given array
 
 2 - Sort an Array of only 0, 1 and 2 as it's elements without using any sorting algorithms  
+
+Day 3 ---------------------------------------------------------------------------------------
+
+1 - Circular Rotate an array by one
+
+2 - Kadane's Algorithm (Largest Sum of Contiguous Subarray)
