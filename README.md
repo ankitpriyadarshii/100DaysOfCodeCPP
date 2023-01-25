@@ -20,3 +20,7 @@ Day 3 --------------------------------------------------------------------------
 1 - Circular Rotate an array by one
 
 2 - Kadane's Algorithm (Largest Sum of Contiguous Subarray)
+
+Day 4 ---------------------------------------------------------------------------------------
+
+1 - Kth Smallest Element in a given Array
