@@ -39,4 +39,4 @@ Day 7 --------------------------------------------------------------------------
 
 Day 8 ---------------------------------------------------------------------------------------
 
-1 - Factorial of a large number
+1 - Factorial of a large number (Added python solution too, as it is easier in it)
