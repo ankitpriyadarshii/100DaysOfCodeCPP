@@ -40,3 +40,7 @@ Day 7 --------------------------------------------------------------------------
 Day 8 ---------------------------------------------------------------------------------------
 
 1 - Factorial of a large number (Added python solution too, as it is easier in it)
+
+Day 9 ---------------------------------------------------------------------------------------
+
+1 - Maximum product of a subarray from a given array of N integers 
