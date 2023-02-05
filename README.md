@@ -66,3 +66,7 @@ Day 14 -------------------------------------------------------------------------
 1 - Find Median of an Array
 
 2 - Find Median of two Sorted array when combined as one
+
+Day 15 ---------------------------------------------------------------------------------------
+
+1 - Smallest subarray with sum greater than x
