@@ -126,3 +126,7 @@ Day 28 -------------------------------------------------------------------------
 Day 29 ---------------------------------------------------------------------------------------
 
 1 - Minimum Swaps for Bracket Balancing
+
+Day 30 ---------------------------------------------------------------------------------------
+
+1 - Minimum number of flips to make the string of 0 and 1, a sequence of alternate characters by flipping some of the bits
