@@ -130,3 +130,7 @@ Day 29 -------------------------------------------------------------------------
 Day 30 ---------------------------------------------------------------------------------------
 
 1 - Minimum number of flips to make the string of 0 and 1, a sequence of alternate characters by flipping some of the bits
+
+Day 31 ---------------------------------------------------------------------------------------
+
+1 - First and Last Occurance of X in a given sorted array 
