@@ -134,3 +134,11 @@ Day 30 -------------------------------------------------------------------------
 Day 31 ---------------------------------------------------------------------------------------
 
 1 - First and Last Occurance of X in a given sorted array 
+
+Day 32 ---------------------------------------------------------------------------------------
+
+1 - Value Equal to Index Value in a given array
+
+2 - Count Square which are less than a given integer N
+
+3 - Find Middle of three numbers
