@@ -142,3 +142,7 @@ Day 32 -------------------------------------------------------------------------
 2 - Count Square which are less than a given integer N
 
 3 - Find Middle of three numbers
+
+Day 33 ---------------------------------------------------------------------------------------
+
+1 - Majority Element
