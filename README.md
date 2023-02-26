@@ -156,3 +156,7 @@ Day 35 -------------------------------------------------------------------------
 1 - Find Pair Given Difference
 
 2 - Stickler Thief
+
+Day 36 ---------------------------------------------------------------------------------------
+
+1 - Count triplets whose sum is smaller than given sum
