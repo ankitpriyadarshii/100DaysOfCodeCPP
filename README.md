@@ -166,3 +166,7 @@ Day 37 -------------------------------------------------------------------------
 1 - Merging two unsorted arrays in sorted order
 
 2 - Zero Sum Subarrays
+
+Day 38 ---------------------------------------------------------------------------------------
+
+1 - Minimum Swaps to Sort a given array
