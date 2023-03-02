@@ -23,7 +23,7 @@ int get_count(int x)
 // Function to find the smallest number with n trailing zeros in its factorial
 int findNum(int n)
 {
-    int low = 0, high = 1e9, ans = -1;
+    int low = 0, high = n*5, ans = -1;
     while (low <= high)
     {
         // Binary search to find the required number
