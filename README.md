@@ -176,3 +176,9 @@ Day 39 -------------------------------------------------------------------------
 1 - K-th element of two sorted Arrays
 
 2 - Arithmetic Number (Missing Number in AP)
+
+Day 40 ---------------------------------------------------------------------------------------
+
+1 - Smallest factorial number
+
+2 - Sort by Set Bit Count
