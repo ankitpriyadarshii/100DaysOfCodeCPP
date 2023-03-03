@@ -67,7 +67,7 @@ int main()
         tail = tail->next;
     }
 
-    reverseList(head);
+    head = reverseList(head);
 
     printList(head);
     cout << endl;
