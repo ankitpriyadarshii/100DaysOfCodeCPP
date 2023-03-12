@@ -220,3 +220,9 @@ Day 49 -------------------------------------------------------------------------
 1 - Check If Circular Linked List
 
 2 - Check if given linked list is palindrome or not
+
+Day 50 ---------------------------------------------------------------------------------------
+
+1 - Deletion and Reverse in Linked List
+
+2 - Given a linked list of 0s, 1s and 2s, sort it.
