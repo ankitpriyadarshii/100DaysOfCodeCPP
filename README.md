@@ -226,3 +226,9 @@ Day 50 -------------------------------------------------------------------------
 1 - Deletion and Reverse in Linked List
 
 2 - Given a linked list of 0s, 1s and 2s, sort it.
+
+Day 51 ---------------------------------------------------------------------------------------
+
+1 - Nth node from end of linked list
+
+2 - Delete nodes having greater value on right
