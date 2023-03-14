@@ -232,3 +232,7 @@ Day 51 -------------------------------------------------------------------------
 1 - Nth node from end of linked list
 
 2 - Delete nodes having greater value on right
+
+Day 52 ---------------------------------------------------------------------------------------
+
+1 - Level Order Traversal in Binary Tree
