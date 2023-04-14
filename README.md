@@ -351,6 +351,6 @@ Day 80 -------------------------------------------------------------------------
 
 1 - Remove Duplicates 
 
-Day 81 - (https://leetcode.com/problems/number-of-good-pairs/description/)  ------------------
+Day 81 - (https://leetcode.com/problems/number-of-good-pairs/description)  ------------------
 
 1 - Number of Good Pairs
