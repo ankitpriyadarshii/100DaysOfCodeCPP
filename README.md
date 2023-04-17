@@ -354,3 +354,7 @@ Day 80 -------------------------------------------------------------------------
 Day 81 - (https://leetcode.com/problems/number-of-good-pairs/description/)  ------------------
 
 1 - Number of Good Pairs
+
+Day 83 - (https://leetcode.com/problems/running-sum-of-1d-array/description/)  ---------------
+
+1 - Running Sum of 1 D Array
