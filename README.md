@@ -358,3 +358,7 @@ Day 81 - (https://leetcode.com/problems/number-of-good-pairs/description/)  ----
 Day 83 - (https://leetcode.com/problems/running-sum-of-1d-array/description/)  ---------------
 
 1 - Running Sum of 1 D Array
+
+Day 84 - (https://leetcode.com/problems/create-target-array-in-the-given-order/description/)  ---------------
+
+1 - Create Target Array in the Given Order
