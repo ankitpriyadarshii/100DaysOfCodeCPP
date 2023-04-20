@@ -366,3 +366,7 @@ Day 84 - (https://leetcode.com/problems/create-target-array-in-the-given-order/d
 Day 85 - (https://leetcode.com/problems/matrix-diagonal-sum/description/)  ---------------
 
 1 - Matrix Diagonal Sum
+
+Day 86 - (https://leetcode.com/problems/sort-the-people/description/)  -------------------
+
+1 - Sort the People
