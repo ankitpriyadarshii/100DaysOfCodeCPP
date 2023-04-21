@@ -370,3 +370,7 @@ Day 85 - (https://leetcode.com/problems/matrix-diagonal-sum/description/)  -----
 Day 86 - (https://leetcode.com/problems/sort-the-people/description/)  -------------------
 
 1 - Sort the People
+
+Day 87 - (https://leetcode.com/problems/shuffle-the-array/description/)  -------------------
+
+1 - Shuffle The Array
