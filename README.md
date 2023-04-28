@@ -383,4 +383,10 @@ Day 89 - (https://leetcode.com/problems/move-zeroes/description/)  -------------
 
 1 - Move Zeroes
 
-Day 90 - (https://leetcode.com/problems/defuse-the-bomb/description/)  --------------------------
+Day 91 - (https://leetcode.com/problems/defuse-the-bomb/description/)  --------------------------
+
+1 - Defuse the Bomb
+
+Day 92 - (https://leetcode.com/problems/shuffle-string/description/)  --------------------------
+
+1 - Shuffle String
