@@ -390,3 +390,7 @@ Day 91 - (https://leetcode.com/problems/defuse-the-bomb/description/)  ---------
 Day 92 - (https://leetcode.com/problems/shuffle-string/description/)  --------------------------
 
 1 - Shuffle String
+
+Day 93 - (https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)  --
+
+1 - How Many Numbers Are Smaller Than the Current Number
