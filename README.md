@@ -395,7 +395,7 @@ Day 93 - (https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-cu
 
 1 - How Many Numbers Are Smaller Than the Current Number
 
-Day 93 ---------------------------------------------------------------------------------------
+Day 94 ---------------------------------------------------------------------------------------
 
 1 - Pangram Sentence (https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)
 
