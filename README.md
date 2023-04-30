@@ -400,3 +400,7 @@ Day 94 -------------------------------------------------------------------------
 1 - Pangram Sentence (https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)
 
 2 - Maximum Ice Cream Bars (https://leetcode.com/problems/maximum-ice-cream-bars/description/)
+
+Day 95 ---------------------------------------------------------------------------------------
+
+1 - Sum of Unique Elements (https://leetcode.com/problems/sum-of-unique-elements/description/)
