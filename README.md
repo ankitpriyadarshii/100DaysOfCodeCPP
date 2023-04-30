@@ -394,3 +394,9 @@ Day 92 - (https://leetcode.com/problems/shuffle-string/description/)  ----------
 Day 93 - (https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)  --
 
 1 - How Many Numbers Are Smaller Than the Current Number
+
+Day 94 ---------------------------------------------------------------------------------------
+
+1 - Pangram Sentence (https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)
+
+2 - Maximum Ice Cream Bars (https://leetcode.com/problems/maximum-ice-cream-bars/description/)
