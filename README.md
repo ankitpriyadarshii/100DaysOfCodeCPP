@@ -404,3 +404,7 @@ Day 94 -------------------------------------------------------------------------
 Day 95 ---------------------------------------------------------------------------------------
 
 1 - Sum of Unique Elements (https://leetcode.com/problems/sum-of-unique-elements/description/)
+
+Day 96 ---------------------------------------------------------------------------------------
+
+1 - Distribute Candies (https://leetcode.com/problems/distribute-candies/description/)
