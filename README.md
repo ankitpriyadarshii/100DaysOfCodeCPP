@@ -408,3 +408,7 @@ Day 95 -------------------------------------------------------------------------
 Day 96 ---------------------------------------------------------------------------------------
 
 1 - Distribute Candies (https://leetcode.com/problems/distribute-candies/description/)
+
+Day 97 ---------------------------------------------------------------------------------------
+
+1 - Find the Difference of Two Arrays (https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
