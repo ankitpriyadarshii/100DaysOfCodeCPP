@@ -4,11 +4,11 @@ class Solution {
 public:
     string truncateSentence(string s, int k) {
         string ans;
-        int count=0;
+        int space_count=0;
         for(auto i:s){
             if(i==' ')
-                count++;
-            if(count<k){
+                space_count++;
+            if(space_count<k){
                 ans+=i;
             }
         }
