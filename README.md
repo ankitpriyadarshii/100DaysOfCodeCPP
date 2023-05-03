@@ -412,3 +412,7 @@ Day 96 -------------------------------------------------------------------------
 Day 97 ---------------------------------------------------------------------------------------
 
 1 - Find the Difference of Two Arrays (https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
+
+Day 98 ---------------------------------------------------------------------------------------
+
+1 - Truncate Sentence (https://leetcode.com/problems/truncate-sentence/description/)
