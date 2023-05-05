@@ -420,3 +420,9 @@ Day 98 -------------------------------------------------------------------------
 Day 99 ---------------------------------------------------------------------------------------
 
 1 - 4 Sum (https://leetcode.com/problems/4sum/description/)
+
+Day 100 ---------------------------------------------------------------------------------------
+
+1 - First Missing Positive (https://leetcode.com/problems/first-missing-positive/description/)
+
+2 - Longest Substring Without Repeating Characters (https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
